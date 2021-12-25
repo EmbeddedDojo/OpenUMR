@@ -17,7 +17,7 @@ The goals of the projects are (in no particular order):
 
 Ideally, this are the interfaces the board should contain.
 
-|  |   |
+|  |   |   |
 ---|---|---
 **Interface**|**Connector**|**Amount**
 Ethernet   | RJ45         | 1/2
@@ -28,5 +28,7 @@ I2C        | PMOD-style   | 1
 SPI        | PMOD-style   | 1
 UART       | PMOD-style   | 1
 Lipo Power | ?            | 1
+CAN        | ?            | 1
+Motor      | ?            | 1
 12v out    | ?            | 1
 Bluetooth  | -            | 1 chip
